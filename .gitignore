@@ -1,0 +1,11 @@
+motor/
+modelos/
+CloverPong/
+registros/
+mcp-local.json
+__pycache__/
+*.pyc
+*.gguf
+*.part
+*.log
+*.zip
